@@ -1,0 +1,64 @@
+.play1 {
+  background: red !important ;
+  z-index:9;
+}
+
+.play2 {
+  background: yellow !important ;
+  z-index:9;
+}
+
+.play3 {
+  background: green !important ;
+  z-index:9;
+}
+
+.play4 {
+  background: blue !important ;
+  z-index:9;
+}
+
+.one {
+  position: absolute;
+  top:0;
+  left:200px;
+  right:200px;
+  height: 200px;
+  background:lightgray;
+  display: block;
+}
+
+.two {
+  position: absolute;
+  top:200px;
+  bottom:200px;
+  right:0;
+  width: 200px;
+  background:lightgray;
+  display: block;
+}
+
+.three {
+  position: absolute;
+  bottom:0;
+  left:200px;
+  right:200px;
+  height: 200px;
+  background:lightgray;
+  display: block;
+}
+
+.four {
+  position: absolute;
+  top:200px;
+  bottom:200px;
+  left:0;
+  width: 200px;
+  background:lightgray;
+  display: block;
+}
+
+h1{
+  text-align: center;
+  margin-top:200px;
+}
